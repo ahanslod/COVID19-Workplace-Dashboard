@@ -1,0 +1,12 @@
+insert into QuarantinedEmployee (employeeId, dateDiagnosed, dateQuarantined) values (26, '2020-11-18', '2020-11-20');
+insert into QuarantinedEmployee (employeeId, dateDiagnosed, dateQuarantined) values (58, '2020-11-10', '2020-11-20');
+insert into QuarantinedEmployee (employeeId, dateDiagnosed, dateQuarantined) values (27, '2020-11-13', '2020-11-14');
+insert into QuarantinedEmployee (employeeId, dateDiagnosed, dateQuarantined) values (49, '2020-11-23', '2020-11-24');
+insert into QuarantinedEmployee (employeeId, dateDiagnosed, dateQuarantined) values (151, '2020-11-24', '2020-11-25');
+insert into QuarantinedEmployee (employeeId, dateDiagnosed, dateQuarantined) values (24, '2020-11-24', '2020-11-26');
+insert into QuarantinedEmployee (employeeId, dateDiagnosed, dateQuarantined) values (82, '2020-11-18', '2020-11-19');
+insert into QuarantinedEmployee (employeeId, dateDiagnosed, dateQuarantined) values (84, '2020-11-20', '2020-11-21');
+insert into QuarantinedEmployee (employeeId, dateDiagnosed, dateQuarantined) values (174, '2020-11-09', '2020-11-16');
+insert into QuarantinedEmployee (employeeId, dateDiagnosed, dateQuarantined) values (190, '2020-11-24', '2020-11-26');
+insert into QuarantinedEmployee (employeeId, dateDiagnosed, dateQuarantined) values (118, '2020-11-24', '2020-11-26');
+insert into QuarantinedEmployee (employeeId, dateDiagnosed, dateQuarantined) values (94, '2020-11-24', '2020-11-26');
